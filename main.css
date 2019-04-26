@@ -19,7 +19,7 @@ h1 {
 
 .text-section p {
   margin: 0;
-  padding:8% 20% 0% 20%;
+  padding:4% 20% 0% 20%;
   text-align: center;
 }
 
@@ -39,10 +39,19 @@ h1 {
 }
 
 .watermelon-type {
+  margin: 0;
   text-align: center;
+  background: rgba(114, 66, 2, 0.5);
+}
+
+.watermelon-type ul{
+  margin: 0;
+  height: 10em;
+  padding-top: 20px;
 }
 
 .watermelon-type ul li {
   display: inline;
-  padding: 0 1.5%;
+  padding: 12px 1.5%;
+
 }

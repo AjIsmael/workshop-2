@@ -55,3 +55,14 @@ h1 {
   padding: 12px 1.5%;
 
 }
+
+.footerbar {
+  margin-top: 0;
+  text-align: center;
+  background-color: #ea5169;
+}
+.footerbar ul li {
+  display: block;
+  padding: 12px 1.5%;
+
+}

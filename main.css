@@ -36,5 +36,13 @@ h1 {
 .gallery-grid div {
   background-image: url('http://lorempixel.com/400/200/city/');
   background-size: cover;
+}
 
+.watermelon-type {
+  text-align: center;
+}
+
+.watermelon-type ul li {
+  display: inline;
+  padding: 0 1.5%;
 }

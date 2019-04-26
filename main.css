@@ -22,3 +22,19 @@ h1 {
   padding:8% 20% 0% 20%;
   text-align: center;
 }
+
+.gallery-grid {
+  background: rgba(151, 88, 6, 0.5);
+  justify-content: center;
+  display: grid;
+  grid-template: 180px / 180px 180px 180px;
+  grid-gap: 2%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.gallery-grid div {
+  background-image: url('http://lorempixel.com/400/200/city/');
+  background-size: cover;
+
+}
